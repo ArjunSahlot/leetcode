@@ -1,2 +1,2 @@
-# leetcode-sync-template
-Template for LeetCode Sync GitHub Action
+# leetcode
+All my leetcode submissions.
