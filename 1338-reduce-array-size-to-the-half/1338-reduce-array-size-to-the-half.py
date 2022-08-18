@@ -7,9 +7,7 @@ class Solution:
             else:
                 table[i] = 1
         cursum = 0
-        curr = 0
-        for i in sorted(table.values(), reverse=True):
-            curr += 1
-            cursum += i
+        for i, val in enumerate(sorted(table.values(), reverse=True)):
+            cursum += val
             if cursum >= len(arr)//2:
-                return curr
+                return i+1
