@@ -51,11 +51,13 @@ All my leetcode submissions.
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ArjunSahlot/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1493-frog-position-after-t-seconds](https://github.com/ArjunSahlot/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ArjunSahlot/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArjunSahlot/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1493-frog-position-after-t-seconds](https://github.com/ArjunSahlot/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ArjunSahlot/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArjunSahlot/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
@@ -72,5 +74,10 @@ All my leetcode submissions.
 |  |
 | ------- |
 | [0988-flip-equivalent-binary-trees](https://github.com/ArjunSahlot/leetcode/tree/master/0988-flip-equivalent-binary-trees) |
+| [1493-frog-position-after-t-seconds](https://github.com/ArjunSahlot/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ArjunSahlot/leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+## Graph
+|  |
+| ------- |
+| [1493-frog-position-after-t-seconds](https://github.com/ArjunSahlot/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 <!---LeetCode Topics End-->
