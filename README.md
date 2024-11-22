@@ -6,6 +6,7 @@ All my leetcode submissions.
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ArjunSahlot/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArjunSahlot/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ArjunSahlot/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Backtracking
@@ -41,6 +42,7 @@ All my leetcode submissions.
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ArjunSahlot/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1197-parsing-a-boolean-expression](https://github.com/ArjunSahlot/leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Hash Table
 |  |
@@ -85,4 +87,8 @@ All my leetcode submissions.
 |  |
 | ------- |
 | [1493-frog-position-after-t-seconds](https://github.com/ArjunSahlot/leetcode/tree/master/1493-frog-position-after-t-seconds) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ArjunSahlot/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
