@@ -6,6 +6,7 @@ All my leetcode submissions.
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/ArjunSahlot/leetcode/tree/master/0064-minimum-path-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArjunSahlot/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArjunSahlot/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ArjunSahlot/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -91,4 +92,12 @@ All my leetcode submissions.
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArjunSahlot/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/ArjunSahlot/leetcode/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/ArjunSahlot/leetcode/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
