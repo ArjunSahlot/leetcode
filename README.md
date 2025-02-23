@@ -19,6 +19,7 @@ All my leetcode submissions.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/ArjunSahlot/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArjunSahlot/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
@@ -62,6 +63,7 @@ All my leetcode submissions.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/ArjunSahlot/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1493-frog-position-after-t-seconds](https://github.com/ArjunSahlot/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ArjunSahlot/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ArjunSahlot/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -87,6 +89,7 @@ All my leetcode submissions.
 ## Graph
 |  |
 | ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/ArjunSahlot/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1493-frog-position-after-t-seconds](https://github.com/ArjunSahlot/leetcode/tree/master/1493-frog-position-after-t-seconds) |
 ## Math
 |  |
@@ -96,8 +99,13 @@ All my leetcode submissions.
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ArjunSahlot/leetcode/tree/master/0064-minimum-path-sum) |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/ArjunSahlot/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 ## Matrix
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ArjunSahlot/leetcode/tree/master/0064-minimum-path-sum) |
+## Bitmask
+|  |
+| ------- |
+| [0877-shortest-path-visiting-all-nodes](https://github.com/ArjunSahlot/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
