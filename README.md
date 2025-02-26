@@ -8,6 +8,7 @@ All my leetcode submissions.
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ArjunSahlot/leetcode/tree/master/0064-minimum-path-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArjunSahlot/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ArjunSahlot/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArjunSahlot/leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ArjunSahlot/leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Backtracking
@@ -100,6 +101,7 @@ All my leetcode submissions.
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ArjunSahlot/leetcode/tree/master/0064-minimum-path-sum) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/ArjunSahlot/leetcode/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/ArjunSahlot/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Matrix
 |  |
 | ------- |
